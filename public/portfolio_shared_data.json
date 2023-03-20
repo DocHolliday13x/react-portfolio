@@ -14,10 +14,15 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "davittWedding.jpg"
     },
     "skills": {
       "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -27,11 +32,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
         },
         {
           "name": "Sass",
